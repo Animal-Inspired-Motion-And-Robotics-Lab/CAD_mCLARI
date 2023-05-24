@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-05-01T20:11:08.4181776+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_frame.SLDPRT</FileName>
+      <SHA1>A0ACB532AEACE4237C8C43DFD4BC2DE19842D089</SHA1>
+      <FileSize>351808</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_frame_support.SLDPRT</FileName>
+      <SHA1>E5BF7E08356FD1DE64047987BD5BED58C5681825</SHA1>
+      <FileSize>341900</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_l_u1.SLDPRT</FileName>
+      <SHA1>142D52E4F890C44A5E667D50646744C068053995</SHA1>
+      <FileSize>366883</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_l_u2.SLDPRT</FileName>
+      <SHA1>4174FFDC6B117F880E089F3FBE6D54E8882D4A4A</SHA1>
+      <FileSize>313395</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_l_u3.SLDPRT</FileName>
+      <SHA1>61783C349702BA08E3B8C1CB95C8EF69E5450BF4</SHA1>
+      <FileSize>289748</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_l_u4.SLDPRT</FileName>
+      <SHA1>10AFA5ADD7168783BB35E3C3F0A35DE1A3EB00B4</SHA1>
+      <FileSize>275680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>a_leg_A_2D.SLDASM</FileName>
+      <SHA1>6CDD75080CEB43115ECAD687CB7DC46793CDC6B6</SHA1>
+      <FileSize>515374</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>a_leg_A_3D.SLDASM</FileName>
+      <SHA1>653045D76DB8953FF8DFC9680A037273DE98D4B4</SHA1>
+      <FileSize>511445</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>equations.txt</FileName>
+      <SHA1>2BEA3100D1A6BA826DE735D8E57363F9DD74F23F</SHA1>
+      <FileSize>645</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_l_u5.SLDPRT</FileName>
+      <SHA1>E0A9A2F6B0B56AC83283C9C6A19B89D61232E51E</SHA1>
+      <FileSize>356321</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_u1.SLDPRT</FileName>
+      <SHA1>7188F6591EFB3175E1A3859D8C2A1AA5AC256666</SHA1>
+      <FileSize>363455</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_flex_03.SLDPRT</FileName>
+      <SHA1>2932B63357E131D797030C41CBCAF761F1A15C40</SHA1>
+      <FileSize>92648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_flex_10.SLDPRT</FileName>
+      <SHA1>DA3AF952D10D61164611D66F338FCF5C747E59F1</SHA1>
+      <FileSize>111460</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_flex_12.SLDPRT</FileName>
+      <SHA1>080E04318417435644D2E4C1903B4C6EC8D8068D</SHA1>
+      <FileSize>131599</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_fold_180_05.SLDPRT</FileName>
+      <SHA1>CF04A198912841742610A2E2D36F26D077268C71</SHA1>
+      <FileSize>62832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_fold_180_064.SLDPRT</FileName>
+      <SHA1>F8F168E0950B0E74A137E5502D5B79E8770CCB9F</SHA1>
+      <FileSize>61161</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_fold_3D_180_05.SLDPRT</FileName>
+      <SHA1>062F8F26F8C51B8EA33CBFB70E381501D68696AE</SHA1>
+      <FileSize>84619</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_fold_3D_180_064.SLDPRT</FileName>
+      <SHA1>E58AF37E38613B72A3727285FA746B60E591F16A</SHA1>
+      <FileSize>84036</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_fold_3D_90_04.SLDPRT</FileName>
+      <SHA1>1EC972B89D8F69E1EA2D27707B0958F86C8692CB</SHA1>
+      <FileSize>69056</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_fold_3D_90_08.SLDPRT</FileName>
+      <SHA1>4C8D3B671B6BF5668CDA7BE27E0FD648B7F55713</SHA1>
+      <FileSize>69593</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_fold_90_04.SLDPRT</FileName>
+      <SHA1>528BED11C6F1D6809472218D42698EE4D5A72CBF</SHA1>
+      <FileSize>61491</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_joint_fold_90_08.SLDPRT</FileName>
+      <SHA1>6BC69D94D986B4AE6E79DD97C65609680AEA1F1B</SHA1>
+      <FileSize>56864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_l_us1.SLDPRT</FileName>
+      <SHA1>9998B3186EC4E9D4CA81727B905D30079FD9B896</SHA1>
+      <FileSize>273492</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_u2.SLDPRT</FileName>
+      <SHA1>92FC9F4007F7DD3D2648F59064D24BD8E800D371</SHA1>
+      <FileSize>317086</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_u3.SLDPRT</FileName>
+      <SHA1>9E17A817B1AEECEBFF381E89AD157AA0207E8E4A</SHA1>
+      <FileSize>288907</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_u4.SLDPRT</FileName>
+      <SHA1>6BF8F3A874CC35FBE211DD6917CC9DA2162F9D25</SHA1>
+      <FileSize>325418</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_u5.SLDPRT</FileName>
+      <SHA1>8E84C3F2810AC8BAA7F5FC731F820D4EDBF183CA</SHA1>
+      <FileSize>321727</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_u6.SLDPRT</FileName>
+      <SHA1>EBF8FBC5DC018BEF62BD354ABC19855DC32681A0</SHA1>
+      <FileSize>407579</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_u7.SLDPRT</FileName>
+      <SHA1>4B9ACAE3ADEAF002DBC64FD43EEE64F488EB29C0</SHA1>
+      <FileSize>332610</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_us1.SLDPRT</FileName>
+      <SHA1>E6D8B7099EADD8FB778ED39FE139FA1CE6E57787</SHA1>
+      <FileSize>268228</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_l_us2.SLDPRT</FileName>
+      <SHA1>3B67E67A86422818376F54FED143E9B51E734722</SHA1>
+      <FileSize>272378</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_l_us3.SLDPRT</FileName>
+      <SHA1>D4B652C05FD23DC4A6EDD4FBEC9EB429D5D766D7</SHA1>
+      <FileSize>346977</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_s_us2.SLDPRT</FileName>
+      <SHA1>8CAE1B14EFD9F01FE7100B6B07734D606A382069</SHA1>
+      <FileSize>274534</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>a_leg_A_2D.SLDDRW</FileName>
+      <SHA1>2321B2DE5946494B20A4101C63BB1035040B838B</SHA1>
+      <FileSize>181487</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_pcb.SLDPRT</FileName>
+      <SHA1>B6279783D7D06B89C9BDDC91F98ADAB487B44AA1</SHA1>
+      <FileSize>339695</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_pzt.SLDPRT</FileName>
+      <SHA1>4571CB6B35D5D40C62E3827B91CDB9ED29899BE7</SHA1>
+      <FileSize>93374</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_pcb.DXF</FileName>
+      <SHA1>F5C7FACB4F0C4412FE2949C5720E8869301D6943</SHA1>
+      <FileSize>42279</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_pcb.SLDDRW</FileName>
+      <SHA1>27B35C50C72E68E0A276214B15F4D598029B2641</SHA1>
+      <FileSize>62205</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg.SLDPRT</FileName>
+      <SHA1>F7AA004BC1F7C0603A27E2CF19F65ADA1283C3AD</SHA1>
+      <FileSize>223305</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_pzt.bak</FileName>
+      <SHA1>19BD637ED1EAD497C063A98C279B9541E03E7206</SHA1>
+      <FileSize>23587</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_pzt.DXF</FileName>
+      <SHA1>DAE371E3BDA561C655943CA027828AE8763A789F</SHA1>
+      <FileSize>95958</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_pzt.SLDDRW</FileName>
+      <SHA1>DA05CDC518F10580EC76F2D49618E76E14A3AA03</SHA1>
+      <FileSize>32912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_frame_rib.SLDPRT</FileName>
+      <SHA1>23AAC1BD17BB174B2B7C743015A7CFC38C3A9C44</SHA1>
+      <FileSize>231023</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_frame_rib_lower.SLDPRT</FileName>
+      <SHA1>9A1D955210476E51C58B4BD73040477EDCAD5A1C</SHA1>
+      <FileSize>252986</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_frame_segment_extension.SLDDRW</FileName>
+      <SHA1>126B6F7611439433AE5BDFB00D1975773CA5690F</SHA1>
+      <FileSize>23167</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg_frame_segment_extension.SLDPRT</FileName>
+      <SHA1>2E81132868DE17338C395AA027A5EA7CD5C94303</SHA1>
+      <FileSize>317551</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D.bak</FileName>
+      <SHA1>06B6E1A3C0D93D695A633CDC60EC1C5169FD6868</SHA1>
+      <FileSize>799450</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D.rcp</FileName>
+      <SHA1>D170D75BDFCCE8D0B3CBF593ED2E6267C6BCFBD6</SHA1>
+      <FileSize>223642</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20221014.dwg</FileName>
+      <SHA1>AFAFAE840EAA62F10013574A7996F4917549A855</SHA1>
+      <FileSize>139599</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20221014.DXF</FileName>
+      <SHA1>32C66716468B68A28F264D5A7FE51ECAB2311EE3</SHA1>
+      <FileSize>799800</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20221028.bak</FileName>
+      <SHA1>D82720A0246294D7D0AF839D2BCA5FD07D337067</SHA1>
+      <FileSize>821711</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20221028.dwg</FileName>
+      <SHA1>54DE9C890A961AE39B4C38721108601561BF570E</SHA1>
+      <FileSize>140934</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20221028.dwl</FileName>
+      <SHA1>E10F085DE236D829C84E3EA869326BCAFE23B7DC</SHA1>
+      <FileSize>60</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20221028.dwl2</FileName>
+      <SHA1>D8F8712904FB8B44C30E7A134A78B631AA78B56D</SHA1>
+      <FileSize>210</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20221028.DXF</FileName>
+      <SHA1>0A2F9C9D5241AD8E08C8766E6ADA3A03F69C9346</SHA1>
+      <FileSize>821712</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20221028.rcp</FileName>
+      <SHA1>0B6E383E924E52EADAC71F66D8741D24602BAF5C</SHA1>
+      <FileSize>246108</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20230117.dxf</FileName>
+      <SHA1>16398289A38245A340A6C9769143F9B4675C2346</SHA1>
+      <FileSize>821781</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\pzt_layers_20221025.bak</FileName>
+      <SHA1>BD700C66A8D3513F33EFE9FFBA1F5C545647529F</SHA1>
+      <FileSize>504979</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\pzt_layers_20221025.dxf</FileName>
+      <SHA1>9E80B0B91804F5CED7492AFBB0CCA90D3EDEEE0F</SHA1>
+      <FileSize>504975</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\pzt_layers_20221025.rcp</FileName>
+      <SHA1>68D5B789F148B29EADDBB5C7DA867AF254916195</SHA1>
+      <FileSize>130734</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_leg_frame_rib.bak</FileName>
+      <SHA1>543D39325698BFC0FC24932DBA9B23FF0749160B</SHA1>
+      <FileSize>160319</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_leg_frame_rib.DXF</FileName>
+      <SHA1>9A160E3A3AC761FEE15BC2C08184558590109AD9</SHA1>
+      <FileSize>159906</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_leg_frame_segment_extension.DXF</FileName>
+      <SHA1>5A31BC12267A2DFE4714264E55FEC1681DBFE239</SHA1>
+      <FileSize>158655</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_leg_frame_segment_extension.rcp</FileName>
+      <SHA1>D7267BCEDBC5C397D42F4F6170E61263A6A272C8</SHA1>
+      <FileSize>37817</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture.bak</FileName>
+      <SHA1>78939DB553623C6320A2AA59AE6A3B3427482A1B</SHA1>
+      <FileSize>393096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture.DXF</FileName>
+      <SHA1>D04BBE1A8C0E58BDA40893DA78C68048293AD52D</SHA1>
+      <FileSize>393247</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture.rcp</FileName>
+      <SHA1>7DEB70AB6D18545A8E1C7B063F91F75A23833196</SHA1>
+      <FileSize>136742</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230125.bak</FileName>
+      <SHA1>BBE9EFEF5A62055A8BC1F5F5910E89D28A6CFAC2</SHA1>
+      <FileSize>328047</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230125.DXF</FileName>
+      <SHA1>A79BB767FA64952F86B72F9B22D9784C28282F21</SHA1>
+      <FileSize>328048</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230126.bak</FileName>
+      <SHA1>419269DF0F5CC859822B90835AEE50FE8953D816</SHA1>
+      <FileSize>312352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230126_cut.bak</FileName>
+      <SHA1>728B14A1433B153A9BB7060F2332513B1B290CB5</SHA1>
+      <FileSize>451899</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230126_cut.DXF</FileName>
+      <SHA1>FBB261DF3F9DFD870C8BB4DD1913001395556C19</SHA1>
+      <FileSize>451899</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230126_template.DXF</FileName>
+      <SHA1>12A073AC86592CCACB1CF08A882B9CAF602566BA</SHA1>
+      <FileSize>312372</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230126_cut.dwl</FileName>
+      <SHA1>FE0CD2B481CF11C763962ED11A24AC4C9F78C49E</SHA1>
+      <FileSize>57</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230126_cut.dwl2</FileName>
+      <SHA1>7753B4E362D006B4204885593094C6B8BFFA397B</SHA1>
+      <FileSize>207</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230126.rcp</FileName>
+      <SHA1>3F0642EAE7F93AD98F672C0CAB960FEC1532C78D</SHA1>
+      <FileSize>153031</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20230117.bak</FileName>
+      <SHA1>BFAED88F5C71755ADD093190787410A61ADEB341</SHA1>
+      <FileSize>821781</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\a_leg_A_2D_20230117.dwg</FileName>
+      <SHA1>0601E44F257B769A76E33BAD9E1ECA61235AC38B</SHA1>
+      <FileSize>143287</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\pzt_layers_20221025_recover.dwg</FileName>
+      <SHA1>54AEB67CF79BB70DF11DEBF2FD5E485D1D82CD69</SHA1>
+      <FileSize>73014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230208_template.bak</FileName>
+      <SHA1>1D88D34E10EA91FFA1B8807939B91243694E34D6</SHA1>
+      <FileSize>282716</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_pcb_manufacture_20230208_template.DXF</FileName>
+      <SHA1>EB63B892A534E5B336EF8FAF545DF8E5806A8A11</SHA1>
+      <FileSize>282716</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>individual_parts\p_leg.SLDDRW</FileName>
+      <SHA1>C2BB53C58EC13689DDECF23D96E4A4864DA16BE2</SHA1>
+      <FileSize>26453</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_leg.bak</FileName>
+      <SHA1>651F38124D310071F12C535628CD01E40E74E291</SHA1>
+      <FileSize>134276</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>manufacturing\p_leg.DXF</FileName>
+      <SHA1>3874BE6447A3FDAA4AAA23320638DC4CCF126ABA</SHA1>
+      <FileSize>207249</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
