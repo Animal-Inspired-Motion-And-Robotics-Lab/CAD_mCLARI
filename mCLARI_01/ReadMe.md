@@ -6,5 +6,5 @@ These are the design and manufacturing files for mCLARI for the **IROS** paper
 
 
 
-All developments since the IROS paper are in mCLARI-02
+All developments since the IROS paper are in mCLARI-01.2
 
