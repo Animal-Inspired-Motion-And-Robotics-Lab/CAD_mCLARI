@@ -1,0 +1,11 @@
+﻿"t"= 0.25'thickness of the sheets
+"t_cf"= 0.115'thickness of single carbon fiber layer
+"t_kapton"= 0.025'thickness of single Kapton flex layer
+"t_fr4"= 0.1'thickness of FR4 with copper layer
+"joint_flex"= 0.1'Width of flextures gap
+"joint_flex_eff"= 0.02'Width of flecture after castelation
+"joint_fold"= 0.2'Width of folding joints for 90deg fold
+"gap_tolerance"= 0.002'Width to have interfecence fit between carbon fiber inserts
+"assemble_angle"= 90'Angle of assembly parts
+"link_lift"= 0.5'Actuation linkage amplification for the lift motion
+"link_swing"= 0.45'Actuation linkage amplification for the swing motion
