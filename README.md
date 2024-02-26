@@ -11,3 +11,5 @@ The main CAD files for this version are found in **mCLARI_01**. For most purpose
 
 Further concept designs with slight design changes are in **mCLARI_01.2** and **mCLARI_01.2_concepts**.
 Rough design replanning was done in **mCLARI_02**, yet this project was abandoned and not finished.
+
+![mCLARI_coin_vertical](https://github.com/Animal-Inspired-Motion-And-Robotics-Lab/CAD_mCLARI/assets/16687647/16489a7b-02ea-4810-be59-5aadd5a7cc2f)
