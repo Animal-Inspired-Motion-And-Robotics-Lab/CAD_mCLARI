@@ -1,0 +1,3268 @@
+#
+# Bunkspeed OBJ Material File
+# http://www.bunkspeed.com
+#
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl brushed_copper
+Kd 1 0.6509804 0.6313726
+Ks 1 0.6509804 0.6313726
+illum 2
+Ns 21.17834
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_titanium
+Kd 1 0.9568627 0.9294118
+Ks 1 0.9568627 0.9294118
+illum 2
+Ns 9.999999
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_titanium
+Kd 1 0.9568627 0.9294118
+Ks 1 0.9568627 0.9294118
+illum 2
+Ns 9.999999
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color
+Kd 0.5921569 0.6666667 0.682353
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_copper
+Kd 0.8392157 0.4666667 0.3686275
+Ks 0.8392157 0.4666667 0.3686275
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-6
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-7
+Kd 0.07058824 0.07058824 0.07058824
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-8
+Kd 0.9686275 0.9686275 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-9
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-10
+Kd 0.8980392 0.9176471 0.9294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-11
+Kd 0 0 0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-12
+Kd 0.7921569 0.8196079 0.9333333
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-13
+Kd 0.9607843 0.9607843 0.9607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl brushed_copper
+Kd 1 0.6509804 0.6313726
+Ks 1 0.6509804 0.6313726
+illum 2
+Ns 21.17834
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_titanium
+Kd 1 0.9568627 0.9294118
+Ks 1 0.9568627 0.9294118
+illum 2
+Ns 9.999999
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_titanium
+Kd 1 0.9568627 0.9294118
+Ks 1 0.9568627 0.9294118
+illum 2
+Ns 9.999999
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color
+Kd 0.5921569 0.6666667 0.682353
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_copper
+Kd 0.8392157 0.4666667 0.3686275
+Ks 0.8392157 0.4666667 0.3686275
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-11
+Kd 0 0 0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-12
+Kd 0.7921569 0.8196079 0.9333333
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-13
+Kd 0.9607843 0.9607843 0.9607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-9
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-10
+Kd 0.8980392 0.9176471 0.9294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-6
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-7
+Kd 0.07058824 0.07058824 0.07058824
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-8
+Kd 0.9686275 0.9686275 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl brushed_copper
+Kd 1 0.6509804 0.6313726
+Ks 1 0.6509804 0.6313726
+illum 2
+Ns 21.17834
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_titanium
+Kd 1 0.9568627 0.9294118
+Ks 1 0.9568627 0.9294118
+illum 2
+Ns 9.999999
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_titanium
+Kd 1 0.9568627 0.9294118
+Ks 1 0.9568627 0.9294118
+illum 2
+Ns 9.999999
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color
+Kd 0.5921569 0.6666667 0.682353
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_copper
+Kd 0.8392157 0.4666667 0.3686275
+Ks 0.8392157 0.4666667 0.3686275
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-6
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-7
+Kd 0.07058824 0.07058824 0.07058824
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-8
+Kd 0.9686275 0.9686275 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-9
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-10
+Kd 0.8980392 0.9176471 0.9294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-11
+Kd 0 0 0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-12
+Kd 0.7921569 0.8196079 0.9333333
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-13
+Kd 0.9607843 0.9607843 0.9607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl green_medium_gloss_plastic
+Kd 0.2862745 0.6627451 0.3294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl yellow_medium_gloss_plastic
+Kd 1 0.9372549 0.1372549
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl brushed_copper
+Kd 1 0.6509804 0.6313726
+Ks 1 0.6509804 0.6313726
+illum 2
+Ns 21.17834
+
+newmtl polished_brass
+Kd 0.827451 0.6666667 0.1294118
+Ks 0.827451 0.6666667 0.1294118
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_titanium
+Kd 1 0.9568627 0.9294118
+Ks 1 0.9568627 0.9294118
+illum 2
+Ns 9.999999
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_titanium
+Kd 1 0.9568627 0.9294118
+Ks 1 0.9568627 0.9294118
+illum 2
+Ns 9.999999
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl polished_zinc
+Kd 0.8 0.8078431 0.8
+Ks 0.8 0.8078431 0.8
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl carbon_fiber_eproxy_2d
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color
+Kd 0.5921569 0.6666667 0.682353
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_copper
+Kd 0.8392157 0.4666667 0.3686275
+Ks 0.8392157 0.4666667 0.3686275
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-14
+Kd 0.2627451 0.282353 0.3019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-15
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-16
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-11
+Kd 0 0 0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-12
+Kd 0.7921569 0.8196079 0.9333333
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-13
+Kd 0.9607843 0.9607843 0.9607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-9
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-10
+Kd 0.8980392 0.9176471 0.9294118
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-6
+Kd 0.5019608 0.5019608 0.5019608
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-7
+Kd 0.07058824 0.07058824 0.07058824
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-8
+Kd 0.9686275 0.9686275 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 1 0.8235294 0.4980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 0.6588235 0.6196079 0.5607843
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
